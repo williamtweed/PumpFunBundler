@@ -1,4 +1,4 @@
-# Pump.Fun Bundler
+# Pump.Fun Bundler 📦
 Multi Wallet Bundler for Pump.Fun
 
 Features:
