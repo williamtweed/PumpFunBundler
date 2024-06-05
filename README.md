@@ -1,5 +1,5 @@
-# bundler
-bundler for pump.fun
+# Pump.Fun Bundler
+Multi Wallet Bundler for Pump.Fun
 
 Features:
 Effortless User Interface :
