@@ -40,3 +40,11 @@ Reclaim SOL:
 Return SOL Balances in Sub Wallets -> Main Wallet In 1 TX
 
 all modules use JITO Bundles to ensure they land
+
+#Telegram for Contact:
+**TELEGRAM** for contact:  
+
+[@freezer](https://t.me/freezer) **(main handle)**
+
+[@williamtweed](https://t.me/williamtweed) **(backup)**
+
