@@ -1,4 +1,4 @@
-# Pump.Fun Bundler 📦
+# FREE Pump.Fun Bundler 📦
 Multi Wallet Bundler for Pump.Fun
 
 Features:
@@ -49,4 +49,4 @@ all modules use JITO Bundles to ensure they land
 
 [@williamtweed](https://t.me/williamtweed) **(backup)**
 
-Channel: https://t.me/pumpfun_bundler
+Channel: https://t.me/bundlefarm
