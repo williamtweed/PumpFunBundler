@@ -1,6 +1,6 @@
 # Free Pump.Fun Bundler 📦
 
-Join: [discord.gg/bundle](https://discord.gg/bundle)
+# Join: [discord.gg/bundle](https://discord.gg/bundle)
 
 Multi Wallet Bundler for Pump.Fun
 
