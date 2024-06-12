@@ -2,6 +2,8 @@
 
 # Join: [discord.gg/bundle](https://discord.gg/bundle)
 
+![Token Card](https://github.com/williamtweed/solanabundler/blob/main/bundler.png)
+
 Multi Wallet Bundler for Pump.Fun
 
 Features:
