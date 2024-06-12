@@ -52,4 +52,5 @@ Telegram for Contact:
 
 [@williamtweed](https://t.me/williamtweed) **(backup)**
 
-Channel: https://t.me/bundlefarm
+Discord: https://discord.gg/bundle
+Telegram Channel: https://t.me/bundlefarm
