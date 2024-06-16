@@ -1,4 +1,4 @@
-# Free Pump.Fun Bundler 📦
+# Free 21 Wallet Ghost Pump.Fun Bundler 📦
 
 # Join: [discord.gg/bundle](https://discord.gg/bundle)
 
